@@ -37,4 +37,4 @@ chmod 770 /ven
 chmod 770 /sec
 chmod 777 /public
 
-echo "Finalizando script..."
+echo "Script finalizado."
